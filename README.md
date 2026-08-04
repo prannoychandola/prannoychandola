@@ -104,7 +104,7 @@ I am continuously building AI-powered applications that focus on solving practic
 
 # 🌐 Connect With Me
 
-📧 Email: prannoychandola2013#gmail.com
+📧 Email: prannoychandola2013@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/prannoy-chandola-8a53b5366/
 
