@@ -172,11 +172,9 @@ Continuously working on projects involving Artificial Intelligence, Machine Lear
 
 📧 **Email:** prannoychandola2013@gmail.com
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/prannoy-chandola-8a53b5366/
+💼 **LinkedIn:** https://www.linkedin.com/in/prannoy-chandola-8a53b5366/
 
-🐙 **GitHub:**  
-https://github.com/prannoychandola
+🐙 **GitHub:** https://github.com/prannoychandola
 
 ---
 
