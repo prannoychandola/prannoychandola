@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Prannoy Chandola</h1>
 
 <h3 align="center">
-Aspiring AI Engineer | Artificial Intelligence • Machine Learning • Deep Learning • NLP
+Artificial Intelligence & Machine Learning | Deep Learning | NLP
 </h3>
 
 <p align="center">
-Building intelligent systems, exploring AI research, and transforming research ideas into practical real-world solutions.
+Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Data, and AI Research.
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-I am an Artificial Intelligence and Machine Learning student passionate about building intelligent systems and exploring emerging AI technologies.
+I am an Artificial Intelligence and Machine Learning student with a strong interest in building intelligent systems and exploring modern AI technologies.
 
-My interests include Machine Learning, Deep Learning, Natural Language Processing, Generative AI, Large Language Models, Retrieval-Augmented Generation, and Agentic AI.
+My primary areas of interest include Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Generative AI, Large Language Models, and Agentic AI.
 
-I enjoy working on practical AI projects that solve real-world problems and continuously improving my understanding through experimentation and research.
+I enjoy working with data, developing machine learning models, experimenting with AI techniques, and applying them to real-world problems.
 
-Beyond development, I actively read, analyze, and implement concepts from research papers to explore current advancements in Artificial Intelligence and translate research ideas into working systems.
+I also actively read, analyze, and implement concepts from research papers to understand current advancements in Artificial Intelligence and Machine Learning.
 
 ---
 
@@ -26,83 +26,93 @@ Beyond development, I actively read, analyze, and implement concepts from resear
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
-- 📊 Deep Learning
+- 🔬 Deep Learning
 - 💬 Natural Language Processing (NLP)
 - ✨ Generative AI
 - 🤝 Agentic AI
 - 📚 Large Language Models (LLMs)
 - 🔍 Retrieval-Augmented Generation (RAG)
-- 📈 Data Science & Analytics
-- 🔬 Explainable AI (XAI)
-- 📄 AI Research & Scientific Literature
-- ⚙️ AI System Design
+- 📊 Data Science
+- 📈 Data Analytics
+- 🗄️ SQL & Databases
+- 📄 AI/ML Research
+- 🔬 Research Paper Analysis & Implementation
 
 ---
 
-# 💻 Programming Languages
+# 💻 Programming
 
-- Python
-- C
-- C++
-- SQL
+- 🐍 Python
+- 🗄️ SQL
 
 ---
 
-# 🛠️ AI & Machine Learning
+# 🧠 AI & Machine Learning
 
-- Scikit-learn
-- TensorFlow
-- NumPy
-- Pandas
-- Natural Language Processing
+- Artificial Intelligence
 - Machine Learning
 - Deep Learning
+- Natural Language Processing
 - Generative AI
-- LLMs
-- RAG
+- Large Language Models
 - Agentic AI
+- Retrieval-Augmented Generation
+- Predictive Analytics
+- Machine Learning Model Evaluation
+- AI Research
 
 ---
 
-# ⚙️ Tools & Technologies
+# 📊 Data & Libraries
 
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- Data Preprocessing
+- Data Analysis
+- Data Visualization
+- Statistical Analysis
+- SQL
+- Database Management
+
+---
+
+# 🌐 Python & Development
+
+- Python
+- Flask
 - Git
 - GitHub
 - Jupyter Notebook
-- VS Code
-- Linux
-- Flask
-- APIs
-- Cloud & AI Deployment
 
 ---
 
 # 📚 Research & Learning
 
-I actively explore Artificial Intelligence research through:
+I actively explore Artificial Intelligence and Machine Learning research through:
 
-- 📄 Research paper analysis
-- 🔬 Research paper implementations
-- 🧠 AI experimentation
-- 📚 Scientific literature analysis
-- 🔍 Research gap identification
-- 🤖 Agentic research workflows
-- 💡 Translating research concepts into practical systems
+- 📄 Research paper reading
+- 🔬 Research paper analysis
+- 💻 Research paper implementation
+- 🧠 AI/ML experimentation
+- 📊 Data analysis
+- 🔍 Exploring new AI/ML techniques
+- 💡 Applying research concepts to practical projects
 
 ---
 
 # 🔭 Currently Exploring
 
-- Large Language Models (LLMs)
-- AI Agents & Multi-Agent Systems
-- Retrieval-Augmented Generation (RAG)
-- Generative AI
-- Research Paper Implementations
-- Prompt Engineering
-- Model Fine-Tuning
-- Explainable AI
-- AI System Design
-- AI Deployment
+- 🧠 Advanced Machine Learning
+- 🔬 Deep Learning
+- 💬 Natural Language Processing
+- ✨ Generative AI
+- 📚 Large Language Models
+- 🤝 Agentic AI
+- 🔍 Retrieval-Augmented Generation
+- 📄 AI/ML Research
+- 📊 Data Science & Analytics
 
 ---
 
@@ -110,11 +120,11 @@ I actively explore Artificial Intelligence research through:
 
 ### 🧠 AI-Driven Early Mental Health Risk Detection
 
-Machine Learning system for early mental health risk detection using predictive analytics and a Random Forest classification approach.
+An AI-powered machine learning system for early mental health risk detection in students using predictive analytics and Random Forest classification.
 
 **Focus:** Machine Learning • Predictive Analytics • Healthcare AI • Python
 
-🔗 Repository:  
+🔗 **Repository:**  
 https://github.com/prannoychandola/ai-driven-mental-health-risk-detection
 
 ---
@@ -123,16 +133,16 @@ https://github.com/prannoychandola/ai-driven-mental-health-risk-detection
 
 An agentic AI framework for automated scientific literature analysis, thematic synthesis, research-gap identification, and research proposal generation.
 
-**Focus:** Agentic AI • NLP • Semantic Search • Research Automation • Scientific Literature
+**Focus:** Agentic AI • NLP • Machine Learning • Scientific Literature • AI Research
 
-🔗 Repository:  
+🔗 **Repository:**  
 https://github.com/prannoychandola/agentic-ai-research
 
 ---
 
-### 🚧 More AI Projects Coming Soon
+### 🚧 More AI/ML Projects Coming Soon
 
-Currently working on additional projects involving NLP, Generative AI, intelligent systems, and AI-powered applications.
+Continuously working on projects involving Artificial Intelligence, Machine Learning, Deep Learning, NLP, Data Science, and AI Research.
 
 ---
 
@@ -162,9 +172,11 @@ Currently working on additional projects involving NLP, Generative AI, intellige
 
 📧 **Email:** prannoychandola2013@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/prannoy-chandola-8a53b5366/
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/prannoy-chandola-8a53b5366/
 
-🐙 **GitHub:** https://github.com/prannoychandola
+🐙 **GitHub:**  
+https://github.com/prannoychandola
 
 ---
 
