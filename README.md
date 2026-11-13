@@ -118,31 +118,37 @@ I actively explore Artificial Intelligence and Machine Learning research through
 
 # 📌 Featured Projects
 
-### 🧠 AI-Driven Early Mental Health Risk Detection
+### 🔎 [ClaimScope](https://github.com/prannoychandola/claimscope)
 
-An AI-powered machine learning system for early mental health risk detection in students using predictive analytics and Random Forest classification.
+A local-first research prototype that retrieves scientific passages relevant to a claim. It includes BM25 and TF-IDF retrieval baselines evaluated on SciFact; a human reviewer makes the support or contradiction judgment.
 
-**Focus:** Machine Learning • Predictive Analytics • Healthcare AI • Python
-
-🔗 **Repository:**  
-https://github.com/prannoychandola/ai-driven-mental-health-risk-detection
+**Focus:** Information Retrieval • Scientific Evidence • BM25 • TF-IDF • Python
 
 ---
 
-### 🤖 Agentic AI Research
+### 🏛️ [Government Scheme Recommender](https://github.com/prannoychandola/government-scheme-recommender)
 
-An agentic AI framework for automated scientific literature analysis, thematic synthesis, research-gap identification, and research proposal generation.
+A Flask chatbot that helps people explore a curated catalogue of Indian government schemes. Its transparent, rule-based matching ranks possible options and explains the criteria; it does not make eligibility decisions.
 
-**Focus:** Agentic AI • NLP • Machine Learning • Scientific Literature • AI Research
+**Focus:** Python • Flask • Rule-Based Recommendations • CSV • Web Development
 
-🔗 **Repository:**  
-https://github.com/prannoychandola/agentic-ai-research
+[🌐 Try the live chatbot](https://government-scheme-recommender.onrender.com/)
 
 ---
 
-### 🚧 More AI/ML Projects Coming Soon
+### 🤖 [Agentic AI for Healthcare XAI Literature Analysis](https://github.com/prannoychandola/agentic-ai-literature-analysis-healthcare-xai-research)
 
-Continuously working on projects involving Artificial Intelligence, Machine Learning, Deep Learning, NLP, Data Science, and AI Research.
+A modular research-assistance framework for organizing healthcare explainable AI literature, comparing clustering approaches, and surfacing evidence-based potential research-gap hypotheses.
+
+**Focus:** Agentic Workflows • NLP • Sentence Transformers • Clustering • AI Research
+
+---
+
+### 🧠 [AI-Driven Early Mental Health Risk Detection](https://github.com/prannoychandola/ai-driven-early-mental-health-risk-detection-in-students-research)
+
+A machine learning project that analyzes student survey data to predict potential mental health risks using a Random Forest classifier, with preprocessing, cross-validation, and model evaluation.
+
+**Focus:** Machine Learning • Random Forest • Predictive Analytics • Healthcare AI • Python
 
 ---
 
