@@ -1,193 +1,92 @@
 <h1 align="center">Hi 👋, I'm Prannoy Chandola</h1>
 
-<h3 align="center">
-Artificial Intelligence & Machine Learning | Deep Learning | NLP
-</h3>
+<h3 align="center">AI & ML Student | Aspiring AI/ML Engineer | Applied Research</h3>
 
 <p align="center">
-Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Data, and AI Research.
+B.E. Computer Science & Engineering (Hons.) student specializing in AI & ML at Chandigarh University.<br/>
+Interested in NLP, LLMs, Generative AI, and building practical AI systems.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/prannoy-chandola-8a53b5366/">LinkedIn</a> ·
+<a href="mailto:prannoychandola2013@gmail.com">Email</a> ·
+<a href="https://github.com/prannoychandola">GitHub</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am an Artificial Intelligence and Machine Learning student with a strong interest in building intelligent systems and exploring modern AI technologies.
+I’m an AI & ML specialization student at Chandigarh University, graduating in 2027. I enjoy developing machine learning pipelines and research workflows, and exploring how AI can help solve practical problems. I’m currently seeking opportunities to grow through AI/ML internships and applied research.
 
-My primary areas of interest include Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Generative AI, Large Language Models, and Agentic AI.
+## 🎓 Education
 
-I enjoy working with data, developing machine learning models, experimenting with AI techniques, and applying them to real-world problems.
+**Chandigarh University** · Chandigarh, India  
+B.E. Computer Science & Engineering (Hons.), AI & ML Specialization (IBM) · Expected 2027
 
-I also actively read, analyze, and implement concepts from research papers to understand current advancements in Artificial Intelligence and Machine Learning.
+## 🧰 Technical Skills
 
----
+- **Programming:** Python, SQL, JavaScript, C, C++
+- **AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, LLMs, Agentic AI, Explainable AI, Model Evaluation
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-learn, Hugging Face Transformers, XGBoost, LangGraph, Sentence Transformers, NLTK, FAISS, SHAP, OpenCV, Pandas, NumPy
+- **APIs & Deployment:** Flask, FastAPI
+- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab, Windows, Linux
 
-# 🚀 Areas of Interest
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔬 Deep Learning
-- 💬 Natural Language Processing (NLP)
-- ✨ Generative AI
-- 🤝 Agentic AI
-- 📚 Large Language Models (LLMs)
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 📊 Data Science
-- 📈 Data Analytics
-- 🗄️ SQL & Databases
-- 📄 AI/ML Research
-- 🔬 Research Paper Analysis & Implementation
-
----
-
-# 💻 Programming
-
-- 🐍 Python
-- 🗄️ SQL
-
----
-
-# 🧠 AI & Machine Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Generative AI
-- Large Language Models
-- Agentic AI
-- Retrieval-Augmented Generation
-- Predictive Analytics
-- Machine Learning Model Evaluation
-- AI Research
-
----
-
-# 📊 Data & Libraries
-
-- NumPy
-- Pandas
-- Scikit-learn
-- TensorFlow
-- Data Preprocessing
-- Data Analysis
-- Data Visualization
-- Statistical Analysis
-- SQL
-- Database Management
-
----
-
-# 🌐 Python & Development
-
-- Python
-- Flask
-- Git
-- GitHub
-- Jupyter Notebook
-
----
-
-# 📚 Research & Learning
-
-I actively explore Artificial Intelligence and Machine Learning research through:
-
-- 📄 Research paper reading
-- 🔬 Research paper analysis
-- 💻 Research paper implementation
-- 🧠 AI/ML experimentation
-- 📊 Data analysis
-- 🔍 Exploring new AI/ML techniques
-- 💡 Applying research concepts to practical projects
-
----
-
-# 🔭 Currently Exploring
-
-- 🧠 Advanced Machine Learning
-- 🔬 Deep Learning
-- 💬 Natural Language Processing
-- ✨ Generative AI
-- 📚 Large Language Models
-- 🤝 Agentic AI
-- 🔍 Retrieval-Augmented Generation
-- 📄 AI/ML Research
-- 📊 Data Science & Analytics
-
----
-
-# 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🔎 [ClaimScope](https://github.com/prannoychandola/claimscope)
 
-A local-first research prototype that retrieves scientific passages relevant to a claim. It includes BM25 and TF-IDF retrieval baselines evaluated on SciFact; a human reviewer makes the support or contradiction judgment.
+A local-first research prototype for retrieving scientific passages relevant to a claim. Includes BM25 and TF-IDF baselines evaluated on SciFact; evidence judgments are left to human reviewers.
 
-**Focus:** Information Retrieval • Scientific Evidence • BM25 • TF-IDF • Python
+**Technologies:** Python · BM25 · TF-IDF · Information Retrieval
 
----
+### 🤖 [Agentic AI Literature Analysis for Healthcare XAI](https://github.com/prannoychandola/agentic-ai-literature-analysis-healthcare-xai-research)
 
-### 🏛️ [Government Scheme Recommender](https://github.com/prannoychandola/government-scheme-recommender)
+A research-assistance workflow for retrieving and organizing healthcare explainable AI literature, analyzing themes, and surfacing potential research-gap hypotheses with evidence.
 
-A Flask chatbot that helps people explore a curated catalogue of Indian government schemes. Its transparent, rule-based matching ranks possible options and explains the criteria; it does not make eligibility decisions.
+**Technologies:** Python · NLP · Sentence Transformers · Scikit-learn · Semantic Scholar · arXiv
 
-**Focus:** Python • Flask • Rule-Based Recommendations • CSV • Web Development
+### 🏛️ [Government Scheme Recommender Chatbot](https://github.com/prannoychandola/government-scheme-recommender)
+
+A deployed Flask chatbot that guides users through a curated catalogue of Indian government schemes. Its transparent rule-based matching explains recommendations and flags details that need official verification.
+
+**Technologies:** Python · Flask · CSV · HTML · CSS · JavaScript
 
 [🌐 Try the live chatbot](https://government-scheme-recommender.onrender.com/)
 
----
-
-### 🤖 [Agentic AI for Healthcare XAI Literature Analysis](https://github.com/prannoychandola/agentic-ai-literature-analysis-healthcare-xai-research)
-
-A modular research-assistance framework for organizing healthcare explainable AI literature, comparing clustering approaches, and surfacing evidence-based potential research-gap hypotheses.
-
-**Focus:** Agentic Workflows • NLP • Sentence Transformers • Clustering • AI Research
-
----
-
 ### 🧠 [AI-Driven Early Mental Health Risk Detection](https://github.com/prannoychandola/ai-driven-early-mental-health-risk-detection-in-students-research)
 
-A machine learning project that analyzes student survey data to predict potential mental health risks using a Random Forest classifier, with preprocessing, cross-validation, and model evaluation.
+A Random Forest pipeline for estimating potential mental health risk in students, with preprocessing, class balancing, cross-validation, and feature-importance analysis. The resume reports 87.6% accuracy and an 87.2% F1-score for the research implementation.
 
-**Focus:** Machine Learning • Random Forest • Predictive Analytics • Healthcare AI • Python
+**Technologies:** Python · Scikit-learn · Pandas · NumPy
+
+## 📜 Certifications
+
+- Microsoft Azure AI Fundamentals
+- IBM Artificial Intelligence Analyst
+- IBM Predictive Analytics using SPSS Modeler - Foundations
+- Research Methodologies - Queen Mary University of London
+- How to Write and Publish a Scientific Paper - École Polytechnique
+
+## 🤝 Leadership & Activities
+
+Selected as a Training & Placement Program class representative for four consecutive semesters; recognized with a Certificate of Leadership by Chandigarh University’s Department of Career Planning & Development for AY 2025–26. Also volunteered at CU Fest and university cultural events.
 
 ---
 
-# 📈 GitHub Statistics
+## 📈 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=prannoychandola&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prannoychandola&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-
 </p>
 
----
-
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=prannoychandola&theme=github-dark&hide_border=true"/>
-
 </p>
 
 ---
 
-# 🌐 Connect With Me
-
-📧 **Email:** prannoychandola2013@gmail.com
-
-💼 **LinkedIn:** https://www.linkedin.com/in/prannoy-chandola-8a53b5366/
-
-🐙 **GitHub:** https://github.com/prannoychandola
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-Feel free to explore my repositories and connect with me.
-
-</p>
+<p align="center">⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</p>
