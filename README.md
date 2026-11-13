@@ -60,6 +60,12 @@ A Random Forest pipeline for estimating potential mental health risk in students
 
 **Technologies:** Python · Scikit-learn · Pandas · NumPy
 
+### ☀️ Dual-Axis Solar Tracker
+
+An Arduino-based solar panel tracking project using four LDR sensors to detect light direction and two motors to adjust the panel across horizontal and vertical axes. The sensor readings guide the panel toward the stronger light source as lighting conditions change.
+
+**Hardware:** Arduino · 4 LDR sensors · 2 motors
+
 ## 📜 Certifications
 
 - Microsoft Azure AI Fundamentals
