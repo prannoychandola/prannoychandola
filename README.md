@@ -64,6 +64,8 @@ A Random Forest pipeline for estimating potential mental health risk in students
 
 Programmed an Arduino board to detect the direction of sunlight and rotate a solar panel across two axes toward the brighter direction. The rotation logic compares light readings from different sides, then adjusts the panel’s horizontal and vertical orientation as the sunlight changes.
 
+**Repository:** [Arduino Dual-Axis Solar Tracker](https://github.com/prannoychandola/arduino-dual-axis-solar-tracker)
+
 ## 📜 Certifications
 
 - Microsoft Azure AI Fundamentals
